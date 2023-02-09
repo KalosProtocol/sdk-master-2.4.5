@@ -1,14 +1,14 @@
 {
   "name": "@kalosdefi/sdk",
   "license": "MIT",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "🛠 An SDK for building applications on top of Kalosdefi.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/kalosdefi/sdk.git",
+  "repository": "https://github.com/KalosProtocol/sdk-master-2.4.5.git",
   "keywords": [
     "Kalosdefi",
     "pancakeswap",
